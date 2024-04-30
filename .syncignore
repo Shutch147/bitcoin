@@ -1,3 +1,4 @@
+# CodeSync won't sync the files in the .syncignore. It follows same format as .gitignore.
 *.tar.gz
 
 *.exe
@@ -150,5 +151,3 @@ dist/
 
 /ci/scratch/
 \.idea\.wiseGPT\
-
-.ai
